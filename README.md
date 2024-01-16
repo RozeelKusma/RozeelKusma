@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rozeelkusma.vercel.app/](https://portfolio-rozeelkusma.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript, React JS**
 
 - 📫 How to reach me **Facebook- https://www.facebook.com/rozeel.kusma**
 
